@@ -1,9 +1,7 @@
-import os
+
 import sys
 from bs4 import BeautifulSoup
 import requests
-from lxml import html
-from gi.repository import Notify
 import time
 from GUInotify import *
 
